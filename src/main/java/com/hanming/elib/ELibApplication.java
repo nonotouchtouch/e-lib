@@ -3,6 +3,9 @@ package com.hanming.elib;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author hanming.xiao
+ */
 @SpringBootApplication
 public class ELibApplication {
 
