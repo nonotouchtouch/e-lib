@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author hanming.xiao
+ * @date 2019-09-30
  */
 @SpringBootApplication
 public class ELibApplication {
